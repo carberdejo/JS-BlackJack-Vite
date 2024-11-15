@@ -4,6 +4,7 @@ import _ from 'underscore';
 import {crearDeck,pedirCarta,valorCarta,turnoComputadora,crearCartaHtml} from './usecases'
 
 /**
+ * cambio :)
  * 2C = Two of Clubs
  * 2D = Two of Diamonds
  * 2H = Two of Hearts
